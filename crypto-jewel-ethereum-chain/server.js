@@ -18,7 +18,6 @@ const fs = require('fs');
 const multipart = require('connect-multiparty');
 const os = require('os')
 var path = require('path');
-var solc = require('solc');
 const multipartMiddleware = multipart({
   uploadDir: os.tmpdir()
 });
@@ -97,7 +96,7 @@ try {
     JSON.parse(req.body.jsonBody).nftName,
     JSON.parse(req.body.jsonBody).nftDescription
   ).then(function(response) {
-    console.log("response",response) 
+   // console.log("response",response) 
     return response.data.IpfsHash
   });
 } catch (error) {
@@ -105,10 +104,46 @@ try {
 }
 //console.log("fileToIpfs",fileToIpfs)
 let tokenURI = fileToIpfs
-// call mint nft function
-mintNFT(tokenURI,contractAddress,nftContract)
+// call to mint nft function is commented
+//mintNFT(tokenURI,contractAddress,nftContract)
 // https://gateway.pinat/ipfs/QmZHUb7djULs2xwGYiK14L4VrTe2Tt6bdU1nw327ZDQnkM"
+//--------
+const nonce = await web3.eth.getTransactionCount(PUBLIC_KEY, "latest") + 1 //get latest nonce
 
+//the transaction
+const tx = {
+  from: PUBLIC_KEY,
+  to: contractAddress,
+  nonce: nonce,
+  gas: 500000,
+  data: nftContract.methods.mintNFT(PUBLIC_KEY, tokenURI).encodeABI(),
+}
+
+const signPromise = web3.eth.accounts.signTransaction(tx, PRIVATE_KEY)
+signPromise
+  .then((signedTx) => {
+    web3.eth.sendSignedTransaction(
+      signedTx.rawTransaction,
+      function (err, hash) {
+        if (!err) {
+          console.log(
+            "The hash of your transaction is: ",
+            hash,
+            "\nCheck Alchemy's Mempool to view the status of your transaction!"
+          )
+          return res.send({"hash":hash,"contractAddress":contractAddress})
+        } else {
+          console.log(
+            "Something went wrong when submitting your transaction:",
+            err
+          )
+        }
+      }
+    )
+  })
+  .catch((err) => {
+    console.log(" Promise failed:", err)
+  })
 })
   const pinFileToIPFS = async (pinataApiKey, pinataSecretApiKey,file,name,description) => {
   const url = `https://api.pinata.cloud/pinning/pinFileToIPFS`;
