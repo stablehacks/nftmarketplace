@@ -11,7 +11,7 @@ app.use(cors())
 app.use(bodyParser.json());
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3")
 const web3 = createAlchemyWeb3(API_URL)
-const contract = require("../crypto-jewel-ethereum-chain/artifacts/contracts/RingToken.sol/RingToken.json")
+const contract = require("../crypto-jewel-ethereum-chain/artifacts/contracts/demo.sol/demo.json")
 const axios = require('axios');
 const FormData = require('form-data');
 const fs = require('fs');

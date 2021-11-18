@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/AccessControl.sol": {
-      "lastModificationDate": 1636562881674,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/AccessControl.sol": {
+      "lastModificationDate": 1637051733534,
       "contentHash": "74fb01cf14d85fd1e7f25b22c6472e6e",
       "sourceName": "contracts/@openzeppelin/contracts/access/AccessControl.sol",
       "solcConfig": {
@@ -40,8 +40,8 @@
         "AccessControl"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/IAccessControl.sol": {
-      "lastModificationDate": 1636562881684,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/IAccessControl.sol": {
+      "lastModificationDate": 1637051733561,
       "contentHash": "e2ed3260ca37d27f68b0ab41f692b407",
       "sourceName": "contracts/@openzeppelin/contracts/access/IAccessControl.sol",
       "solcConfig": {
@@ -74,8 +74,8 @@
         "IAccessControl"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1636562881950,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1637051708964,
       "contentHash": "851485d5b925529b1a2f34a0be077891",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -108,8 +108,8 @@
         "Context"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Strings.sol": {
-      "lastModificationDate": 1636562881955,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Strings.sol": {
+      "lastModificationDate": 1637051708965,
       "contentHash": "62142442bed149f965c5ed971fae4182",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -142,8 +142,8 @@
         "Strings"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
-      "lastModificationDate": 1636562881964,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+      "lastModificationDate": 1637051708968,
       "contentHash": "a9a5319dff9088c6ffe757ea1c2a6729",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
@@ -178,8 +178,8 @@
         "ERC165"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
-      "lastModificationDate": 1636562881967,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+      "lastModificationDate": 1637051708970,
       "contentHash": "9a04322bb8f6b8f2767d8358d1d2537b",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -212,8 +212,8 @@
         "IERC165"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/TimelockController.sol": {
-      "lastModificationDate": 1636562881815,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/TimelockController.sol": {
+      "lastModificationDate": 1637051708814,
       "contentHash": "1063e950050b753e06183de3977ec0eb",
       "sourceName": "contracts/@openzeppelin/contracts/governance/TimelockController.sol",
       "solcConfig": {
@@ -248,8 +248,8 @@
         "TimelockController"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockControl.sol": {
-      "lastModificationDate": 1636562881822,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockControl.sol": {
+      "lastModificationDate": 1637051708817,
       "contentHash": "18c9d011aa8c608cf2dca2316fdfdf98",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockControl.sol",
       "solcConfig": {
@@ -286,8 +286,8 @@
         "GovernorTimelockControl"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/IGovernorTimelock.sol": {
-      "lastModificationDate": 1636562881826,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/IGovernorTimelock.sol": {
+      "lastModificationDate": 1637051708824,
       "contentHash": "3121c14abab5b4ce70e0513dfe07e886",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/IGovernorTimelock.sol",
       "solcConfig": {
@@ -322,8 +322,8 @@
         "IGovernorTimelock"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/Governor.sol": {
-      "lastModificationDate": 1636562881813,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/Governor.sol": {
+      "lastModificationDate": 1637051708811,
       "contentHash": "bbce04cad2e7c8f73aeffc9f1ae6c171",
       "sourceName": "contracts/@openzeppelin/contracts/governance/Governor.sol",
       "solcConfig": {
@@ -365,8 +365,8 @@
         "Governor"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/IGovernor.sol": {
-      "lastModificationDate": 1636562881814,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/IGovernor.sol": {
+      "lastModificationDate": 1637051708813,
       "contentHash": "e1d6036a7197b3949b60d1f5ff048761",
       "sourceName": "contracts/@openzeppelin/contracts/governance/IGovernor.sol",
       "solcConfig": {
@@ -401,8 +401,8 @@
         "IGovernor"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/ECDSA.sol": {
-      "lastModificationDate": 1636562881957,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/ECDSA.sol": {
+      "lastModificationDate": 1637051708966,
       "contentHash": "197dbfaf7146845fa76331a4c9980e9f",
       "sourceName": "contracts/@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
       "solcConfig": {
@@ -435,8 +435,8 @@
         "ECDSA"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol": {
-      "lastModificationDate": 1636562881959,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol": {
+      "lastModificationDate": 1637051708967,
       "contentHash": "549712dc273f006b866af22f6fb3cadc",
       "sourceName": "contracts/@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
       "solcConfig": {
@@ -471,8 +471,8 @@
         "EIP712"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SafeCast.sol": {
-      "lastModificationDate": 1636562881971,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SafeCast.sol": {
+      "lastModificationDate": 1637051708972,
       "contentHash": "b8980ba70f1a32dd81c98fda7e3aac07",
       "sourceName": "contracts/@openzeppelin/contracts/utils/math/SafeCast.sol",
       "solcConfig": {
@@ -505,8 +505,8 @@
         "SafeCast"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Address.sol": {
-      "lastModificationDate": 1636562881949,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Address.sol": {
+      "lastModificationDate": 1637051708963,
       "contentHash": "c5f6c4e4df069c789e7d84b4c3011913",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -539,8 +539,8 @@
         "Address"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Timers.sol": {
-      "lastModificationDate": 1636562881955,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Timers.sol": {
+      "lastModificationDate": 1637051708965,
       "contentHash": "06f7a84c7f78eb55dbcabd379dc0d51c",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Timers.sol",
       "solcConfig": {
@@ -573,8 +573,8 @@
         "Timers"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesComp.sol": {
-      "lastModificationDate": 1636562881824,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesComp.sol": {
+      "lastModificationDate": 1637051708817,
       "contentHash": "d87bff33165836058a8206fc99aa2436",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesComp.sol",
       "solcConfig": {
@@ -610,8 +610,8 @@
         "GovernorVotesComp"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20VotesComp.sol": {
-      "lastModificationDate": 1636562881920,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20VotesComp.sol": {
+      "lastModificationDate": 1637051708950,
       "contentHash": "e48d37d5a40aca9a708443e3dd1b4c03",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20VotesComp.sol",
       "solcConfig": {
@@ -646,8 +646,8 @@
         "ERC20VotesComp"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol": {
-      "lastModificationDate": 1636562881919,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol": {
+      "lastModificationDate": 1637051708950,
       "contentHash": "12740705b7cfca947ece1a76662e808f",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol",
       "solcConfig": {
@@ -685,8 +685,8 @@
         "ERC20Votes"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol": {
-      "lastModificationDate": 1636562881923,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol": {
+      "lastModificationDate": 1637051708951,
       "contentHash": "6e6e1b4929e8a364cbfa97be4e3ef410",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
       "solcConfig": {
@@ -725,8 +725,8 @@
         "ERC20Permit"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/Math.sol": {
-      "lastModificationDate": 1636562881970,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/Math.sol": {
+      "lastModificationDate": 1637051708971,
       "contentHash": "4e138d2b21c8844ab1799e37d232fb5e",
       "sourceName": "contracts/@openzeppelin/contracts/utils/math/Math.sol",
       "solcConfig": {
@@ -759,8 +759,8 @@
         "Math"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol": {
-      "lastModificationDate": 1636562881924,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol": {
+      "lastModificationDate": 1637051708951,
       "contentHash": "0266cd0875ab6ce1b05e87cce62120c0",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
       "solcConfig": {
@@ -793,8 +793,8 @@
         "IERC20Permit"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
-      "lastModificationDate": 1636562881874,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+      "lastModificationDate": 1637051708946,
       "contentHash": "2cd550cedf51b8d294607dad5023d717",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
@@ -831,8 +831,8 @@
         "ERC20"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Counters.sol": {
-      "lastModificationDate": 1636562881951,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Counters.sol": {
+      "lastModificationDate": 1637051708964,
       "contentHash": "b7811964d33f23b2d45ed3ebb76a4548",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Counters.sol",
       "solcConfig": {
@@ -865,8 +865,8 @@
         "Counters"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1636562881913,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1637051708946,
       "contentHash": "0eac3e1a83ee62326ca007811285b274",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -899,8 +899,8 @@
         "IERC20"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
-      "lastModificationDate": 1636562881922,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+      "lastModificationDate": 1637051708950,
       "contentHash": "aa1be06992a99bb7393b26a6af3c4dfb",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
@@ -935,8 +935,8 @@
         "IERC20Metadata"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol": {
-      "lastModificationDate": 1636562881958,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol": {
+      "lastModificationDate": 1637051708967,
       "contentHash": "a91a1246db664b760a34faa8b589be54",
       "sourceName": "contracts/@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol",
       "solcConfig": {
@@ -973,8 +973,8 @@
         "SignatureChecker"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1271.sol": {
-      "lastModificationDate": 1636562881830,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1271.sol": {
+      "lastModificationDate": 1637051708826,
       "contentHash": "69389258a66f5201f087767c44d8df74",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1271.sol",
       "solcConfig": {
@@ -1007,8 +1007,8 @@
         "IERC1271"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Multicall.sol": {
-      "lastModificationDate": 1636562881953,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Multicall.sol": {
+      "lastModificationDate": 1637051708964,
       "contentHash": "02ef67f7d53580861138486901c5c702",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Multicall.sol",
       "solcConfig": {
@@ -1043,8 +1043,8 @@
         "Multicall"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/ERC777.sol": {
-      "lastModificationDate": 1636562881943,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/ERC777.sol": {
+      "lastModificationDate": 1637051708961,
       "contentHash": "5dc485e66e8766e5bb67a55252cb0f93",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC777/ERC777.sol",
       "solcConfig": {
@@ -1085,8 +1085,8 @@
         "ERC777"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777.sol": {
-      "lastModificationDate": 1636562881944,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777.sol": {
+      "lastModificationDate": 1637051708961,
       "contentHash": "2e58a223d55cc7d9b53fb3f3b6a5d2d0",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC777/IERC777.sol",
       "solcConfig": {
@@ -1119,8 +1119,8 @@
         "IERC777"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777Recipient.sol": {
-      "lastModificationDate": 1636562881945,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777Recipient.sol": {
+      "lastModificationDate": 1637051708962,
       "contentHash": "28db9244cc847ef290e8ca4576cd920e",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC777/IERC777Recipient.sol",
       "solcConfig": {
@@ -1153,8 +1153,8 @@
         "IERC777Recipient"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777Sender.sol": {
-      "lastModificationDate": 1636562881946,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/IERC777Sender.sol": {
+      "lastModificationDate": 1637051708962,
       "contentHash": "ff3b94060a5b0f1f5364dc872b9d0a66",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC777/IERC777Sender.sol",
       "solcConfig": {
@@ -1187,8 +1187,8 @@
         "IERC777Sender"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC1820Registry.sol": {
-      "lastModificationDate": 1636562881968,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC1820Registry.sol": {
+      "lastModificationDate": 1637051708971,
       "contentHash": "c223419630b736f8dbe292b20b851be6",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/IERC1820Registry.sol",
       "solcConfig": {
@@ -1221,8 +1221,8 @@
         "IERC1820Registry"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/presets/ERC777PresetFixedSupply.sol": {
-      "lastModificationDate": 1636562881947,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC777/presets/ERC777PresetFixedSupply.sol": {
+      "lastModificationDate": 1637051708962,
       "contentHash": "1e3c8e922e83686d4e483863fa1b6d4c",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC777/presets/ERC777PresetFixedSupply.sol",
       "solcConfig": {
@@ -1257,8 +1257,8 @@
         "ERC777PresetFixedSupply"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1820Registry.sol": {
-      "lastModificationDate": 1636562881835,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1820Registry.sol": {
+      "lastModificationDate": 1637051708828,
       "contentHash": "634e701e8dc0f73c638e35139df427db",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1820Registry.sol",
       "solcConfig": {
@@ -1291,8 +1291,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol": {
-      "lastModificationDate": 1636562881940,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol": {
+      "lastModificationDate": 1637051708960,
       "contentHash": "67e5488b82b791ee395a68d9207d78a1",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/presets/ERC721PresetMinterPauserAutoId.sol",
       "solcConfig": {
@@ -1333,8 +1333,8 @@
         "ERC721PresetMinterPauserAutoId"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
-      "lastModificationDate": 1636562881929,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+      "lastModificationDate": 1637051708957,
       "contentHash": "a4f6dccf3f15b6844e357f737a572388",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
@@ -1375,8 +1375,8 @@
         "ERC721"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol": {
-      "lastModificationDate": 1636562881933,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol": {
+      "lastModificationDate": 1637051708958,
       "contentHash": "55752434e41be58192ecbaa3beb4b7cc",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
       "solcConfig": {
@@ -1412,8 +1412,8 @@
         "ERC721Enumerable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol": {
-      "lastModificationDate": 1636562881932,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol": {
+      "lastModificationDate": 1637051708958,
       "contentHash": "c451d6197061b5e0d446b7171af0dc01",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Burnable.sol",
       "solcConfig": {
@@ -1449,8 +1449,8 @@
         "ERC721Burnable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Pausable.sol": {
-      "lastModificationDate": 1636562881935,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Pausable.sol": {
+      "lastModificationDate": 1637051708959,
       "contentHash": "13ce5b6b753c018e5c0c356bbb325616",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721Pausable.sol",
       "solcConfig": {
@@ -1486,8 +1486,8 @@
         "ERC721Pausable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/AccessControlEnumerable.sol": {
-      "lastModificationDate": 1636562881680,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/AccessControlEnumerable.sol": {
+      "lastModificationDate": 1637051733549,
       "contentHash": "209f579294fd4189dd1884204bc45ad5",
       "sourceName": "contracts/@openzeppelin/contracts/access/AccessControlEnumerable.sol",
       "solcConfig": {
@@ -1524,8 +1524,8 @@
         "AccessControlEnumerable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
-      "lastModificationDate": 1636562881930,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "lastModificationDate": 1637051708957,
       "contentHash": "53919d6975f2c0f3dffee5e3a1064116",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
@@ -1560,8 +1560,8 @@
         "IERC721"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
-      "lastModificationDate": 1636562881931,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol": {
+      "lastModificationDate": 1637051708958,
       "contentHash": "9a367cecca6fed80a3e975b7e6b3bd5c",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
@@ -1594,8 +1594,8 @@
         "IERC721Receiver"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
-      "lastModificationDate": 1636562881938,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "lastModificationDate": 1637051708960,
       "contentHash": "8aa69ca8424167555baaaa9f607801db",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
@@ -1630,8 +1630,8 @@
         "IERC721Metadata"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol": {
-      "lastModificationDate": 1636562881937,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol": {
+      "lastModificationDate": 1637051708959,
       "contentHash": "e57b2ff1645fb57408d6f87ee861dcb6",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
       "solcConfig": {
@@ -1666,8 +1666,8 @@
         "IERC721Enumerable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/Pausable.sol": {
-      "lastModificationDate": 1636562881860,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/Pausable.sol": {
+      "lastModificationDate": 1637051708838,
       "contentHash": "662437c05ba6f3706097c8d5ca68a52a",
       "sourceName": "contracts/@openzeppelin/contracts/security/Pausable.sol",
       "solcConfig": {
@@ -1702,8 +1702,8 @@
         "Pausable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/IAccessControlEnumerable.sol": {
-      "lastModificationDate": 1636562881685,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/IAccessControlEnumerable.sol": {
+      "lastModificationDate": 1637051733568,
       "contentHash": "248d95dd2b3b61397818fbcbacaad49a",
       "sourceName": "contracts/@openzeppelin/contracts/access/IAccessControlEnumerable.sol",
       "solcConfig": {
@@ -1738,8 +1738,8 @@
         "IAccessControlEnumerable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/EnumerableSet.sol": {
-      "lastModificationDate": 1636562881986,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/EnumerableSet.sol": {
+      "lastModificationDate": 1637051708973,
       "contentHash": "2c46fb3033f19693d6cbe230950fec96",
       "sourceName": "contracts/@openzeppelin/contracts/utils/structs/EnumerableSet.sol",
       "solcConfig": {
@@ -1772,8 +1772,119 @@
         "EnumerableSet"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/MyNFT.sol": {
-      "lastModificationDate": 1636562913251,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/RingToken.sol": {
+      "lastModificationDate": 1637276577838,
+      "contentHash": "a0c12339065372e0fb47350ade287bef",
+      "sourceName": "contracts/RingToken.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./@openzeppelin/contracts/token/ERC721/ERC721.sol",
+        "./@openzeppelin/contracts/utils/Counters.sol",
+        "./@openzeppelin/contracts/access/Ownable.sol",
+        "./@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RingToken"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1637051734101,
+      "contentHash": "4fe56b59ced59d87df6b796758f62895",
+      "sourceName": "contracts/@openzeppelin/contracts/access/Ownable.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../utils/Context.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Ownable"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
+      "lastModificationDate": 1637051708959,
+      "contentHash": "94da923c22e9773af388607307182c80",
+      "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../ERC721.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC721URIStorage"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/MyNFT.sol": {
+      "lastModificationDate": 1637051708974,
       "contentHash": "8e889495ab995e3571d0c8f0bd086c0e",
       "sourceName": "contracts/MyNFT.sol",
       "solcConfig": {
@@ -1811,10 +1922,10 @@
         "MyNFT"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1636562881687,
-      "contentHash": "4fe56b59ced59d87df6b796758f62895",
-      "sourceName": "contracts/@openzeppelin/contracts/access/Ownable.sol",
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/demo.sol": {
+      "lastModificationDate": 1637277300765,
+      "contentHash": "0eae6fbdcbfe90b857cea3f698ba7004",
+      "sourceName": "contracts/demo.sol",
       "solcConfig": {
         "version": "0.8.0",
         "settings": {
@@ -1838,560 +1949,20 @@
         }
       },
       "imports": [
-        "../utils/Context.sol"
+        "./@openzeppelin/contracts/token/ERC721/ERC721.sol",
+        "./@openzeppelin/contracts/utils/Counters.sol",
+        "./@openzeppelin/contracts/access/Ownable.sol",
+        "./@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"
       ],
       "versionPragmas": [
         "^0.8.0"
       ],
       "artifacts": [
-        "Ownable"
+        "demo"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol": {
-      "lastModificationDate": 1636562881936,
-      "contentHash": "94da923c22e9773af388607307182c80",
-      "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../ERC721.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ERC721URIStorage"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/Escrow.sol": {
-      "lastModificationDate": 1636562881961,
-      "contentHash": "dd60493b0215fe84678df38718c6f782",
-      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/Escrow.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../../access/Ownable.sol",
-        "../Address.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Escrow"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/ConditionalEscrow.sol": {
-      "lastModificationDate": 1636562881961,
-      "contentHash": "a97dcf4527039a2d054121e6f66f393e",
-      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/ConditionalEscrow.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./Escrow.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ConditionalEscrow"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/RefundEscrow.sol": {
-      "lastModificationDate": 1636562881962,
-      "contentHash": "35185e3167083598733cf751dd2fc070",
-      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/RefundEscrow.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./ConditionalEscrow.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "RefundEscrow"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/PullPayment.sol": {
-      "lastModificationDate": 1636562881860,
-      "contentHash": "7c4931ba871bedbcbdc3cba27682bbed",
-      "sourceName": "contracts/@openzeppelin/contracts/security/PullPayment.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../utils/escrow/Escrow.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "PullPayment"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol": {
-      "lastModificationDate": 1636562881856,
-      "contentHash": "229133ca3246b191261ba5bdfa2ab91a",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./TransparentUpgradeableProxy.sol",
-        "../../access/Ownable.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ProxyAdmin"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol": {
-      "lastModificationDate": 1636562881856,
-      "contentHash": "9a6e31a38e04c942d525824b7be729f1",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../ERC1967/ERC1967Proxy.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "TransparentUpgradeableProxy"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol": {
-      "lastModificationDate": 1636562881850,
-      "contentHash": "b12e929a2313d46515ebcecdcb157283",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../Proxy.sol",
-        "./ERC1967Upgrade.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ERC1967Proxy"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/Proxy.sol": {
-      "lastModificationDate": 1636562881852,
-      "contentHash": "39dead889de1329620d1634e0b499e30",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/Proxy.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "Proxy"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol": {
-      "lastModificationDate": 1636563215530,
-      "contentHash": "0c5866f1a6b3805f38b9e6fc6d1992b8",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../beacon/IBeacon.sol",
-        "../../utils/Address.sol",
-        "../../utils/StorageSlot.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "ERC1967Upgrade"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/IBeacon.sol": {
-      "lastModificationDate": 1636562881854,
-      "contentHash": "e1e6df7276b048c6b544c757c6e179ec",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/IBeacon.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "IBeacon"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/StorageSlot.sol": {
-      "lastModificationDate": 1636562881954,
-      "contentHash": "dcfdd37663042ccb99d67060a9eaebec",
-      "sourceName": "contracts/@openzeppelin/contracts/utils/StorageSlot.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "StorageSlot"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/utils/UUPSUpgradeable.sol": {
-      "lastModificationDate": 1636563246572,
-      "contentHash": "e1b217642d753f53bf074f498faab25b",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/utils/UUPSUpgradeable.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "../ERC1967/ERC1967Upgrade.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "UUPSUpgradeable"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/UpgradeableBeacon.sol": {
-      "lastModificationDate": 1636562881854,
-      "contentHash": "ce8ae93e65f6e34105b9abc9d1be67ee",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/UpgradeableBeacon.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./IBeacon.sol",
-        "../../access/Ownable.sol",
-        "../../utils/Address.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "UpgradeableBeacon"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/BeaconProxy.sol": {
-      "lastModificationDate": 1636562881853,
-      "contentHash": "7217d9a0b6e1cf9842df0915c87081ad",
-      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/BeaconProxy.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./IBeacon.sol",
-        "../Proxy.sol",
-        "../ERC1967/ERC1967Upgrade.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "BeaconProxy"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol": {
-      "lastModificationDate": 1636562881917,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol": {
+      "lastModificationDate": 1637051708949,
       "contentHash": "805c4c7b9aeebbdd5dbca2f3a8acc6af",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol",
       "solcConfig": {
@@ -2427,8 +1998,8 @@
         "ERC20Pausable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol": {
-      "lastModificationDate": 1636562881926,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol": {
+      "lastModificationDate": 1637051708955,
       "contentHash": "39699172cbc3cf76aafbd7d3729afa18",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetMinterPauser.sol",
       "solcConfig": {
@@ -2467,8 +2038,8 @@
         "ERC20PresetMinterPauser"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol": {
-      "lastModificationDate": 1636562881915,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol": {
+      "lastModificationDate": 1637051708947,
       "contentHash": "e888f903b629e3ced11f5d1f85cda823",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
       "solcConfig": {
@@ -2504,8 +2075,8 @@
         "ERC20Burnable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/presets/ERC1155PresetMinterPauser.sol": {
-      "lastModificationDate": 1636562881870,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/presets/ERC1155PresetMinterPauser.sol": {
+      "lastModificationDate": 1637051708925,
       "contentHash": "557f65807107a6d13194e504aa4fcff4",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/presets/ERC1155PresetMinterPauser.sol",
       "solcConfig": {
@@ -2544,8 +2115,8 @@
         "ERC1155PresetMinterPauser"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/ERC1155.sol": {
-      "lastModificationDate": 1636562881863,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/ERC1155.sol": {
+      "lastModificationDate": 1637051708839,
       "contentHash": "ba2afe08cb68a6c2695edfee4901d5f1",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/ERC1155.sol",
       "solcConfig": {
@@ -2585,8 +2156,8 @@
         "ERC1155"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Burnable.sol": {
-      "lastModificationDate": 1636562881866,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Burnable.sol": {
+      "lastModificationDate": 1637051708923,
       "contentHash": "dafe4cd519490b76f3a7076fd3c119a7",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Burnable.sol",
       "solcConfig": {
@@ -2621,8 +2192,8 @@
         "ERC1155Burnable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Pausable.sol": {
-      "lastModificationDate": 1636562881867,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Pausable.sol": {
+      "lastModificationDate": 1637051708923,
       "contentHash": "62b323a01b102140a0daf43a358541e0",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Pausable.sol",
       "solcConfig": {
@@ -2658,8 +2229,8 @@
         "ERC1155Pausable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/IERC1155.sol": {
-      "lastModificationDate": 1636562881864,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/IERC1155.sol": {
+      "lastModificationDate": 1637051708842,
       "contentHash": "bcbcd549c9bfc2da42e5426780ce4e4e",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/IERC1155.sol",
       "solcConfig": {
@@ -2694,8 +2265,8 @@
         "IERC1155"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol": {
-      "lastModificationDate": 1636562881865,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol": {
+      "lastModificationDate": 1637051708843,
       "contentHash": "82e386b6255dba9eb011192f66eb78b6",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol",
       "solcConfig": {
@@ -2730,8 +2301,8 @@
         "IERC1155Receiver"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/IERC1155MetadataURI.sol": {
-      "lastModificationDate": 1636562881869,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/IERC1155MetadataURI.sol": {
+      "lastModificationDate": 1637051708924,
       "contentHash": "f67c3445291b9506fdff7d6527c9e552",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/extensions/IERC1155MetadataURI.sol",
       "solcConfig": {
@@ -2766,8 +2337,8 @@
         "IERC1155MetadataURI"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Supply.sol": {
-      "lastModificationDate": 1636562881868,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Supply.sol": {
+      "lastModificationDate": 1637051708924,
       "contentHash": "a7b98577862ef636fb7638d521648345",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Supply.sol",
       "solcConfig": {
@@ -2802,8 +2373,8 @@
         "ERC1155Supply"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165Storage.sol": {
-      "lastModificationDate": 1636562881965,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165Storage.sol": {
+      "lastModificationDate": 1637051708970,
       "contentHash": "463cdcc1b1e93ed93de97e19ff265db2",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/ERC165Storage.sol",
       "solcConfig": {
@@ -2838,8 +2409,8 @@
         "ERC165Storage"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol": {
-      "lastModificationDate": 1636562881872,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol": {
+      "lastModificationDate": 1637051708945,
       "contentHash": "de467e2231a0f5a8ec4c03d572a853d7",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Receiver.sol",
       "solcConfig": {
@@ -2875,8 +2446,8 @@
         "ERC1155Receiver"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165Checker.sol": {
-      "lastModificationDate": 1636562881965,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC165Checker.sol": {
+      "lastModificationDate": 1637051708969,
       "contentHash": "1978094106e1418d89168dc2b57c2abe",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/ERC165Checker.sol",
       "solcConfig": {
@@ -2911,8 +2482,8 @@
         "ERC165Checker"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Metadata.sol": {
-      "lastModificationDate": 1636562881841,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Metadata.sol": {
+      "lastModificationDate": 1637051708831,
       "contentHash": "ed111257b384b8b0842f1d3d8be44c3c",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC721Metadata.sol",
       "solcConfig": {
@@ -2945,8 +2516,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Enumerable.sol": {
-      "lastModificationDate": 1636562881840,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Enumerable.sol": {
+      "lastModificationDate": 1637051708831,
       "contentHash": "8691c6af11c6388e5484d7d9ddf07aff",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC721Enumerable.sol",
       "solcConfig": {
@@ -2979,8 +2550,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721.sol": {
-      "lastModificationDate": 1636562881840,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721.sol": {
+      "lastModificationDate": 1637051708831,
       "contentHash": "45d219afeac41621b11715a90511257c",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC721.sol",
       "solcConfig": {
@@ -3013,8 +2584,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC165.sol": {
-      "lastModificationDate": 1636562881833,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC165.sol": {
+      "lastModificationDate": 1637051708828,
       "contentHash": "5db2f57f2c2299039a26ab37235d87e2",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC165.sol",
       "solcConfig": {
@@ -3047,8 +2618,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC2981.sol": {
-      "lastModificationDate": 1636562881837,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC2981.sol": {
+      "lastModificationDate": 1637051708829,
       "contentHash": "6d2f339001c6b40dc85e527f05cee321",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC2981.sol",
       "solcConfig": {
@@ -3083,8 +2654,8 @@
         "IERC2981"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363.sol": {
-      "lastModificationDate": 1636562881831,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363.sol": {
+      "lastModificationDate": 1637051708827,
       "contentHash": "9cf33dfe52c65388e94427bf7e420358",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1363.sol",
       "solcConfig": {
@@ -3120,8 +2691,8 @@
         "IERC1363"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC20.sol": {
-      "lastModificationDate": 1636562881835,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC20.sol": {
+      "lastModificationDate": 1637051708829,
       "contentHash": "74239c7141201997f8742ff9aebebcad",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC20.sol",
       "solcConfig": {
@@ -3154,8 +2725,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol": {
-      "lastModificationDate": 1636562881927,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol": {
+      "lastModificationDate": 1637051708956,
       "contentHash": "d37406082a74a9b6b114de522fcb6349",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
       "solcConfig": {
@@ -3191,8 +2762,8 @@
         "SafeERC20"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/utils/TokenTimelock.sol": {
-      "lastModificationDate": 1636562881928,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/utils/TokenTimelock.sol": {
+      "lastModificationDate": 1637051708957,
       "contentHash": "300a40bb85b24b972f1b7b0ac6ddc031",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/utils/TokenTimelock.sol",
       "solcConfig": {
@@ -3227,8 +2798,8 @@
         "TokenTimelock"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Wrapper.sol": {
-      "lastModificationDate": 1636562881921,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Wrapper.sol": {
+      "lastModificationDate": 1637051708950,
       "contentHash": "b5d896c8fc0c829ed18a5cfd604f46ef",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Wrapper.sol",
       "solcConfig": {
@@ -3264,8 +2835,8 @@
         "ERC20Wrapper"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Snapshot.sol": {
-      "lastModificationDate": 1636562881918,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Snapshot.sol": {
+      "lastModificationDate": 1637051708949,
       "contentHash": "285296268a10d1275677164d48b5c740",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Snapshot.sol",
       "solcConfig": {
@@ -3302,8 +2873,8 @@
         "ERC20Snapshot"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Arrays.sol": {
-      "lastModificationDate": 1636562881949,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Arrays.sol": {
+      "lastModificationDate": 1637051708963,
       "contentHash": "b4a7cd9430208d853bff41b5338353ab",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Arrays.sol",
       "solcConfig": {
@@ -3338,8 +2909,8 @@
         "Arrays"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotes.sol": {
-      "lastModificationDate": 1636562881823,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotes.sol": {
+      "lastModificationDate": 1637051708817,
       "contentHash": "7ca148bd1c18cc41e9db0ecc0c318a49",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorVotes.sol",
       "solcConfig": {
@@ -3376,8 +2947,8 @@
         "GovernorVotes"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesQuorumFraction.sol": {
-      "lastModificationDate": 1636562881825,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesQuorumFraction.sol": {
+      "lastModificationDate": 1637051708818,
       "contentHash": "fb97b3040ba5ab7b81751a7ba4b7a840",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorVotesQuorumFraction.sol",
       "solcConfig": {
@@ -3412,8 +2983,8 @@
         "GovernorVotesQuorumFraction"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20FlashMint.sol": {
-      "lastModificationDate": 1636562881916,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20FlashMint.sol": {
+      "lastModificationDate": 1637051708947,
       "contentHash": "1e59f011faea7d62cab5a2f7b588e975",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20FlashMint.sol",
       "solcConfig": {
@@ -3449,8 +3020,8 @@
         "ERC20FlashMint"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156.sol": {
-      "lastModificationDate": 1636562881837,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156.sol": {
+      "lastModificationDate": 1637051708830,
       "contentHash": "472c9e2015f0e97873bfb64199981dcc",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC3156.sol",
       "solcConfig": {
@@ -3484,8 +3055,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156FlashBorrower.sol": {
-      "lastModificationDate": 1636562881838,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156FlashBorrower.sol": {
+      "lastModificationDate": 1637051708830,
       "contentHash": "53ca773b42cc62f219252929fb2526b0",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC3156FlashBorrower.sol",
       "solcConfig": {
@@ -3518,8 +3089,8 @@
         "IERC3156FlashBorrower"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156FlashLender.sol": {
-      "lastModificationDate": 1636562881839,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC3156FlashLender.sol": {
+      "lastModificationDate": 1637051708830,
       "contentHash": "72185dc668a5c9173f6648aed8146de7",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC3156FlashLender.sol",
       "solcConfig": {
@@ -3554,8 +3125,8 @@
         "IERC3156FlashLender"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol": {
-      "lastModificationDate": 1636562881915,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol": {
+      "lastModificationDate": 1637051708947,
       "contentHash": "1ef9bb98be133f0008af98b4700b9e95",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/extensions/ERC20Capped.sol",
       "solcConfig": {
@@ -3590,8 +3161,8 @@
         "ERC20Capped"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol": {
-      "lastModificationDate": 1636562881925,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol": {
+      "lastModificationDate": 1637051708955,
       "contentHash": "f944eb1294159f29f947befbf2167c1a",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol",
       "solcConfig": {
@@ -3626,8 +3197,8 @@
         "ERC20PresetFixedSupply"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC20Metadata.sol": {
-      "lastModificationDate": 1636562881836,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC20Metadata.sol": {
+      "lastModificationDate": 1637051708829,
       "contentHash": "2c3edfa53241edc571c9f68499d42b0e",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC20Metadata.sol",
       "solcConfig": {
@@ -3660,8 +3231,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/metatx/MinimalForwarder.sol": {
-      "lastModificationDate": 1636562881847,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/metatx/MinimalForwarder.sol": {
+      "lastModificationDate": 1637051708833,
       "contentHash": "b691c319d31225641bba66542c838a27",
       "sourceName": "contracts/@openzeppelin/contracts/metatx/MinimalForwarder.sol",
       "solcConfig": {
@@ -3697,8 +3268,8 @@
         "MinimalForwarder"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/draft-IERC2612.sol": {
-      "lastModificationDate": 1636562881845,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/draft-IERC2612.sol": {
+      "lastModificationDate": 1637051708832,
       "contentHash": "2e563d31bddd7d06b73c0ab73a2a0a35",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/draft-IERC2612.sol",
       "solcConfig": {
@@ -3733,8 +3304,8 @@
         "IERC2612"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155MetadataURI.sol": {
-      "lastModificationDate": 1636562881828,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155MetadataURI.sol": {
+      "lastModificationDate": 1637051708825,
       "contentHash": "f9ec866057cd33e3e0872e341163467a",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1155MetadataURI.sol",
       "solcConfig": {
@@ -3767,8 +3338,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155.sol": {
-      "lastModificationDate": 1636562881827,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155.sol": {
+      "lastModificationDate": 1637051708825,
       "contentHash": "b40ebc9c3b1082edefdc281160f3e90f",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1155.sol",
       "solcConfig": {
@@ -3801,8 +3372,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155Receiver.sol": {
-      "lastModificationDate": 1636562881829,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1155Receiver.sol": {
+      "lastModificationDate": 1637051708826,
       "contentHash": "3304234a4794b8a2d3ce1190771ff543",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1155Receiver.sol",
       "solcConfig": {
@@ -3835,8 +3406,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol": {
-      "lastModificationDate": 1636562881871,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol": {
+      "lastModificationDate": 1637051708945,
       "contentHash": "b3de7ea2002899c2c64ec69ca8c74ff5",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC1155/utils/ERC1155Holder.sol",
       "solcConfig": {
@@ -3871,8 +3442,8 @@
         "ERC1155Holder"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/compatibility/IGovernorCompatibilityBravo.sol": {
-      "lastModificationDate": 1636562881818,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/compatibility/IGovernorCompatibilityBravo.sol": {
+      "lastModificationDate": 1637051708815,
       "contentHash": "0878f3d9bc312ca10e4a788d9902f4e4",
       "sourceName": "contracts/@openzeppelin/contracts/governance/compatibility/IGovernorCompatibilityBravo.sol",
       "solcConfig": {
@@ -3907,8 +3478,8 @@
         "IGovernorCompatibilityBravo"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/compatibility/GovernorCompatibilityBravo.sol": {
-      "lastModificationDate": 1636562881817,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/compatibility/GovernorCompatibilityBravo.sol": {
+      "lastModificationDate": 1637051708815,
       "contentHash": "0169fc5fe729ca51a5bfdf31d67def43",
       "sourceName": "contracts/@openzeppelin/contracts/governance/compatibility/GovernorCompatibilityBravo.sol",
       "solcConfig": {
@@ -3948,8 +3519,8 @@
         "GovernorCompatibilityBravo"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorProposalThreshold.sol": {
-      "lastModificationDate": 1636562881821,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorProposalThreshold.sol": {
+      "lastModificationDate": 1637051708816,
       "contentHash": "f8f1774ff3a2f1080dff9ee1088c6fee",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorProposalThreshold.sol",
       "solcConfig": {
@@ -3984,8 +3555,8 @@
         "GovernorProposalThreshold"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockCompound.sol": {
-      "lastModificationDate": 1636562881822,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockCompound.sol": {
+      "lastModificationDate": 1637051708816,
       "contentHash": "722183167f4f584c67f32818db6e7fb1",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorTimelockCompound.sol",
       "solcConfig": {
@@ -4023,8 +3594,8 @@
         "ICompoundTimelock"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/EnumerableMap.sol": {
-      "lastModificationDate": 1636562881985,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/EnumerableMap.sol": {
+      "lastModificationDate": 1637051708973,
       "contentHash": "399f9b009afe8033a4b735beeda3b295",
       "sourceName": "contracts/@openzeppelin/contracts/utils/structs/EnumerableMap.sol",
       "solcConfig": {
@@ -4059,8 +3630,8 @@
         "EnumerableMap"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol": {
-      "lastModificationDate": 1636562881941,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol": {
+      "lastModificationDate": 1637051708961,
       "contentHash": "40c7a8a65c915b35f29a010df93b123e",
       "sourceName": "contracts/@openzeppelin/contracts/token/ERC721/utils/ERC721Holder.sol",
       "solcConfig": {
@@ -4095,8 +3666,8 @@
         "ERC721Holder"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Receiver.sol": {
-      "lastModificationDate": 1636562881842,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC721Receiver.sol": {
+      "lastModificationDate": 1637051708831,
       "contentHash": "4e54f052485bc83dd68046755a07be3a",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC721Receiver.sol",
       "solcConfig": {
@@ -4129,8 +3700,515 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/metatx/ERC2771Context.sol": {
-      "lastModificationDate": 1636562881846,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/Escrow.sol": {
+      "lastModificationDate": 1637051708968,
+      "contentHash": "dd60493b0215fe84678df38718c6f782",
+      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/Escrow.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../../access/Ownable.sol",
+        "../Address.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Escrow"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/ConditionalEscrow.sol": {
+      "lastModificationDate": 1637051708967,
+      "contentHash": "a97dcf4527039a2d054121e6f66f393e",
+      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/ConditionalEscrow.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./Escrow.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ConditionalEscrow"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/escrow/RefundEscrow.sol": {
+      "lastModificationDate": 1637051708968,
+      "contentHash": "35185e3167083598733cf751dd2fc070",
+      "sourceName": "contracts/@openzeppelin/contracts/utils/escrow/RefundEscrow.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./ConditionalEscrow.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "RefundEscrow"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/PullPayment.sol": {
+      "lastModificationDate": 1637051708839,
+      "contentHash": "7c4931ba871bedbcbdc3cba27682bbed",
+      "sourceName": "contracts/@openzeppelin/contracts/security/PullPayment.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../utils/escrow/Escrow.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "PullPayment"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol": {
+      "lastModificationDate": 1637051708837,
+      "contentHash": "229133ca3246b191261ba5bdfa2ab91a",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/transparent/ProxyAdmin.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./TransparentUpgradeableProxy.sol",
+        "../../access/Ownable.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ProxyAdmin"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol": {
+      "lastModificationDate": 1637051708837,
+      "contentHash": "9a6e31a38e04c942d525824b7be729f1",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/transparent/TransparentUpgradeableProxy.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../ERC1967/ERC1967Proxy.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TransparentUpgradeableProxy"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol": {
+      "lastModificationDate": 1637051708834,
+      "contentHash": "b12e929a2313d46515ebcecdcb157283",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../Proxy.sol",
+        "./ERC1967Upgrade.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC1967Proxy"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/Proxy.sol": {
+      "lastModificationDate": 1637051708835,
+      "contentHash": "39dead889de1329620d1634e0b499e30",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/Proxy.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Proxy"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol": {
+      "lastModificationDate": 1637051708834,
+      "contentHash": "0c5866f1a6b3805f38b9e6fc6d1992b8",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/ERC1967/ERC1967Upgrade.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../beacon/IBeacon.sol",
+        "../../utils/Address.sol",
+        "../../utils/StorageSlot.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "ERC1967Upgrade"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/IBeacon.sol": {
+      "lastModificationDate": 1637051708835,
+      "contentHash": "e1e6df7276b048c6b544c757c6e179ec",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/IBeacon.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IBeacon"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/StorageSlot.sol": {
+      "lastModificationDate": 1637051708965,
+      "contentHash": "dcfdd37663042ccb99d67060a9eaebec",
+      "sourceName": "contracts/@openzeppelin/contracts/utils/StorageSlot.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "StorageSlot"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/utils/UUPSUpgradeable.sol": {
+      "lastModificationDate": 1637051708838,
+      "contentHash": "e1b217642d753f53bf074f498faab25b",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/utils/UUPSUpgradeable.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../ERC1967/ERC1967Upgrade.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "UUPSUpgradeable"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/UpgradeableBeacon.sol": {
+      "lastModificationDate": 1637051708836,
+      "contentHash": "ce8ae93e65f6e34105b9abc9d1be67ee",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/UpgradeableBeacon.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IBeacon.sol",
+        "../../access/Ownable.sol",
+        "../../utils/Address.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "UpgradeableBeacon"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/beacon/BeaconProxy.sol": {
+      "lastModificationDate": 1637051708835,
+      "contentHash": "7217d9a0b6e1cf9842df0915c87081ad",
+      "sourceName": "contracts/@openzeppelin/contracts/proxy/beacon/BeaconProxy.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./IBeacon.sol",
+        "../Proxy.sol",
+        "../ERC1967/ERC1967Upgrade.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BeaconProxy"
+      ]
+    },
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/metatx/ERC2771Context.sol": {
+      "lastModificationDate": 1637051708833,
       "contentHash": "37e3df1006d5c4bf4bce312bce6d4cda",
       "sourceName": "contracts/@openzeppelin/contracts/metatx/ERC2771Context.sol",
       "solcConfig": {
@@ -4165,8 +4243,8 @@
         "ERC2771Context"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/finance/PaymentSplitter.sol": {
-      "lastModificationDate": 1636562881812,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/finance/PaymentSplitter.sol": {
+      "lastModificationDate": 1637051708810,
       "contentHash": "673b4831a2a5e4379d256ab27fdf0340",
       "sourceName": "contracts/@openzeppelin/contracts/finance/PaymentSplitter.sol",
       "solcConfig": {
@@ -4203,8 +4281,8 @@
         "PaymentSplitter"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SafeMath.sol": {
-      "lastModificationDate": 1636562881972,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SafeMath.sol": {
+      "lastModificationDate": 1637051708972,
       "contentHash": "5365090efc586b728719e562ebfed0d6",
       "sourceName": "contracts/@openzeppelin/contracts/utils/math/SafeMath.sol",
       "solcConfig": {
@@ -4237,8 +4315,8 @@
         "SafeMath"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777Sender.sol": {
-      "lastModificationDate": 1636562881844,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777Sender.sol": {
+      "lastModificationDate": 1637051708832,
       "contentHash": "230dd9d36b2738e002885d21b50d1146",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC777Sender.sol",
       "solcConfig": {
@@ -4271,8 +4349,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777Recipient.sol": {
-      "lastModificationDate": 1636562881843,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777Recipient.sol": {
+      "lastModificationDate": 1637051708832,
       "contentHash": "d9418d92fd71c52fcc4c1e04448cef03",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC777Recipient.sol",
       "solcConfig": {
@@ -4305,8 +4383,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777.sol": {
-      "lastModificationDate": 1636562881843,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC777.sol": {
+      "lastModificationDate": 1637051708832,
       "contentHash": "6fc097b4fcf613238f58137654845e1f",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC777.sol",
       "solcConfig": {
@@ -4339,8 +4417,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorCountingSimple.sol": {
-      "lastModificationDate": 1636562881820,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/governance/extensions/GovernorCountingSimple.sol": {
+      "lastModificationDate": 1637051708816,
       "contentHash": "504da4e45292dd36aee8f13b85b99b6c",
       "sourceName": "contracts/@openzeppelin/contracts/governance/extensions/GovernorCountingSimple.sol",
       "solcConfig": {
@@ -4375,8 +4453,8 @@
         "GovernorCountingSimple"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363Receiver.sol": {
-      "lastModificationDate": 1636562881831,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363Receiver.sol": {
+      "lastModificationDate": 1637051708827,
       "contentHash": "fcf779e4e52920364819793bdd3262f4",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1363Receiver.sol",
       "solcConfig": {
@@ -4409,8 +4487,8 @@
         "IERC1363Receiver"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363Spender.sol": {
-      "lastModificationDate": 1636562881832,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1363Spender.sol": {
+      "lastModificationDate": 1637051708827,
       "contentHash": "1242b50ff6fd6a2c2231c6769497c306",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1363Spender.sol",
       "solcConfig": {
@@ -4443,8 +4521,8 @@
         "IERC1363Spender"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1820Implementer.sol": {
-      "lastModificationDate": 1636562881834,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/interfaces/IERC1820Implementer.sol": {
+      "lastModificationDate": 1637051708828,
       "contentHash": "85ec25b36af0e9e35918e41af017ca3e",
       "sourceName": "contracts/@openzeppelin/contracts/interfaces/IERC1820Implementer.sol",
       "solcConfig": {
@@ -4477,8 +4555,8 @@
       ],
       "artifacts": []
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC1820Implementer.sol": {
-      "lastModificationDate": 1636562881968,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/IERC1820Implementer.sol": {
+      "lastModificationDate": 1637051708971,
       "contentHash": "da8e63116dc7c44d084104efff723f07",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/IERC1820Implementer.sol",
       "solcConfig": {
@@ -4511,8 +4589,8 @@
         "IERC1820Implementer"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC1820Implementer.sol": {
-      "lastModificationDate": 1636562881966,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/introspection/ERC1820Implementer.sol": {
+      "lastModificationDate": 1637051708970,
       "contentHash": "87a376b77c02867515e433a1f6b9cc76",
       "sourceName": "contracts/@openzeppelin/contracts/utils/introspection/ERC1820Implementer.sol",
       "solcConfig": {
@@ -4547,8 +4625,8 @@
         "ERC1820Implementer"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/Clones.sol": {
-      "lastModificationDate": 1636562881849,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/Clones.sol": {
+      "lastModificationDate": 1637051708834,
       "contentHash": "e8f1f04c46c67381a0b13f90439f9b41",
       "sourceName": "contracts/@openzeppelin/contracts/proxy/Clones.sol",
       "solcConfig": {
@@ -4581,8 +4659,8 @@
         "Clones"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/utils/Initializable.sol": {
-      "lastModificationDate": 1636562881858,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/proxy/utils/Initializable.sol": {
+      "lastModificationDate": 1637051708838,
       "contentHash": "cbb8386f0120d46d66ff42dffbbc16c1",
       "sourceName": "contracts/@openzeppelin/contracts/proxy/utils/Initializable.sol",
       "solcConfig": {
@@ -4615,8 +4693,8 @@
         "Initializable"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/ReentrancyGuard.sol": {
-      "lastModificationDate": 1636562881861,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/security/ReentrancyGuard.sol": {
+      "lastModificationDate": 1637051708839,
       "contentHash": "53fbff678f378956efcb207fa748eaa6",
       "sourceName": "contracts/@openzeppelin/contracts/security/ReentrancyGuard.sol",
       "solcConfig": {
@@ -4649,8 +4727,8 @@
         "ReentrancyGuard"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Create2.sol": {
-      "lastModificationDate": 1636562881952,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/Create2.sol": {
+      "lastModificationDate": 1637051708964,
       "contentHash": "bfbf6965fd013ef02c04a98da6c8ef96",
       "sourceName": "contracts/@openzeppelin/contracts/utils/Create2.sol",
       "solcConfig": {
@@ -4683,8 +4761,8 @@
         "Create2"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/MerkleProof.sol": {
-      "lastModificationDate": 1636562881957,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/cryptography/MerkleProof.sol": {
+      "lastModificationDate": 1637051708966,
       "contentHash": "88f50e7054a1be7b6c150c50c3552f9b",
       "sourceName": "contracts/@openzeppelin/contracts/utils/cryptography/MerkleProof.sol",
       "solcConfig": {
@@ -4717,8 +4795,8 @@
         "MerkleProof"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SignedSafeMath.sol": {
-      "lastModificationDate": 1636562881972,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/math/SignedSafeMath.sol": {
+      "lastModificationDate": 1637051708972,
       "contentHash": "22f39cc4e65cf283981e866296b0d25b",
       "sourceName": "contracts/@openzeppelin/contracts/utils/math/SignedSafeMath.sol",
       "solcConfig": {
@@ -4751,8 +4829,8 @@
         "SignedSafeMath"
       ]
     },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/BitMaps.sol": {
-      "lastModificationDate": 1636562881984,
+    "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/@openzeppelin/contracts/utils/structs/BitMaps.sol": {
+      "lastModificationDate": 1637051708973,
       "contentHash": "9a5d0e1552d327d30adc30eec5e928a0",
       "sourceName": "contracts/@openzeppelin/contracts/utils/structs/BitMaps.sol",
       "solcConfig": {
@@ -4783,45 +4861,6 @@
       ],
       "artifacts": [
         "BitMaps"
-      ]
-    },
-    "/Users/guneetsinghlamba/Documents/work/crypto-jewel-ethereum-chain/contracts/RingToken.sol": {
-      "lastModificationDate": 1636581252266,
-      "contentHash": "ad5801f410892bc6a3f57c4ca2685a4c",
-      "sourceName": "contracts/RingToken.sol",
-      "solcConfig": {
-        "version": "0.8.0",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          }
-        }
-      },
-      "imports": [
-        "./@openzeppelin/contracts/token/ERC721/ERC721.sol",
-        "./@openzeppelin/contracts/utils/Counters.sol",
-        "./@openzeppelin/contracts/access/Ownable.sol",
-        "./@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.0"
-      ],
-      "artifacts": [
-        "RingToken"
       ]
     }
   }
