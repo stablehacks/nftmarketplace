@@ -9,7 +9,7 @@ import "./@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 contract RingToken is ERC721URIStorage, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
-
+    
     constructor() public ERC721("RingToken", "RNT") {}
 
 function _baseURI() internal pure override returns (string memory) {
@@ -17,8 +17,9 @@ function _baseURI() internal pure override returns (string memory) {
     }
     function mintNFT(address recipient, string memory tokenURI)
         public onlyOwner
+        payable
         returns (uint256)
-    {
+    {   
         _tokenIds.increment();
 
         uint256 newItemId = _tokenIds.current();

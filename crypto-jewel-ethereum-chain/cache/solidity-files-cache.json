@@ -1773,8 +1773,8 @@
       ]
     },
     "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/RingToken.sol": {
-      "lastModificationDate": 1637276577838,
-      "contentHash": "a0c12339065372e0fb47350ade287bef",
+      "lastModificationDate": 1637331683558,
+      "contentHash": "3ab03ee276822664a4e39fe857bc4563",
       "sourceName": "contracts/RingToken.sol",
       "solcConfig": {
         "version": "0.8.0",
@@ -1923,8 +1923,8 @@
       ]
     },
     "/Users/guneetsinghlamba/Documents/nftmarketplace/crypto-jewel-ethereum-chain/contracts/demo.sol": {
-      "lastModificationDate": 1637277300765,
-      "contentHash": "0eae6fbdcbfe90b857cea3f698ba7004",
+      "lastModificationDate": 1637363498732,
+      "contentHash": "414dedb20c498792428b2cd49ed2555d",
       "sourceName": "contracts/demo.sol",
       "solcConfig": {
         "version": "0.8.0",

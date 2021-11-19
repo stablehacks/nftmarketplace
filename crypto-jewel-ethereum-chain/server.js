@@ -32,7 +32,7 @@ async function mintNFT(tokenURI,contractAddress,nftContract) {
     to: contractAddress,
     nonce: nonce,
     gas: 500000,
-    data: nftContract.methods.mintNFT(PUBLIC_KEY, tokenURI).encodeABI(),
+    data: nftContract.methods.mintNFT(PUBLIC_KEY, tokenURI,{value:ethers.utils.parseEther('0.012')}).encodeABI(),
   }
 
   const signPromise = web3.eth.accounts.signTransaction(tx, PRIVATE_KEY)
@@ -108,7 +108,7 @@ let tokenURI = fileToIpfs
 //mintNFT(tokenURI,contractAddress,nftContract)
 // https://gateway.pinat/ipfs/QmZHUb7djULs2xwGYiK14L4VrTe2Tt6bdU1nw327ZDQnkM"
 //--------
-const nonce = await web3.eth.getTransactionCount(PUBLIC_KEY, "latest") + 1 //get latest nonce
+const nonce = await web3.eth.getTransactionCount(PUBLIC_KEY, "latest")+1 //get latest nonce
 
 //the transaction
 const tx = {
@@ -116,7 +116,8 @@ const tx = {
   to: contractAddress,
   nonce: nonce,
   gas: 500000,
-  data: nftContract.methods.mintNFT(PUBLIC_KEY, tokenURI).encodeABI(),
+  value: '1000000000000',
+  data: nftContract.methods.mintNFT(PUBLIC_KEY).encodeABI(),
 }
 
 const signPromise = web3.eth.accounts.signTransaction(tx, PRIVATE_KEY)

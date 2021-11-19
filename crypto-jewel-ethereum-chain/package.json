@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@alch/alchemy-web3": "^1.1.6",
+    "@ethereumjs/tx": "^3.4.0",
     "@openzeppelin/contracts": "^4.3.2",
     "axios": "^0.24.0",
     "body-parser": "^1.19.0",
